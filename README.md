@@ -8,16 +8,13 @@ I like maths and using them to achieve the most efficient algoritm. My favorite 
 - Java
 - C#
 - C++
-
-:no_mouth: Languajes I know and used to a lesser extent:
+- Python
 - JS
 - PHP
-- gml (Game Maker)
-
-:neutral_face: Other languajes:
 - HTML
 - CSS
 - SQL
+- gml
 
 ------------
 
@@ -28,6 +25,6 @@ I like maths and using them to achieve the most efficient algoritm. My favorite 
 ------------
 
 More about me:
-- :tired_face: I'm currently trying to pass the exams but also learning LWJGL and would like to learn more languajes.
+- :tired_face: I'm currently trying to pass the exams but also learning LWJGL, some frameworks like Spring & Assembly.
 - :coffee: Love coffee.
 - :sunrise_over_mountains: My favorite place: [Plazoleta Doña Catalina de la Vega](https://goo.gl/maps/sp7PmeRoAqiWfFcR7 "Plazoleta Doña Catalina de la Vega")
