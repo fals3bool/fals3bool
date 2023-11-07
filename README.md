@@ -19,7 +19,7 @@ I like maths and using them to achieve the most efficient algorithm. My favorite
 ------------
 
 :mailbox_with_mail: Contact:
-- Instagram: [fabricio_lt](https://www.instagram.com/fabricio_lt/ "fabricio_lt")
+- Instagram: [Fabricio Tomás](https://www.instagram.com/fabrifalso/ "fabrifalso")
 - Email: fabritomas25@gmail.com
 
 ------------
