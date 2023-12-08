@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Fabricio Tomás (falseme).
-I'm a 20 year-old student of the UNL ([Universidad Nacional del Litoral](https://www.unl.edu.ar "Universidad Nacional del Litoral ARG")) living in Argentina.
+I'm a 20 year-old student from the UNL ([Universidad Nacional del Litoral](https://www.unl.edu.ar "Universidad Nacional del Litoral ARG")) living in Argentina.
 I like maths and using them to achieve the most efficient algorithm. My favorite math operation is the logarithm.
 
 ------------
@@ -27,4 +27,4 @@ I like maths and using them to achieve the most efficient algorithm. My favorite
 More about me:
 - :tired_face: I'm currently trying to pass the exams but also learning LWJGL, some frameworks like Spring & Assembly.
 - :coffee: Love coffee.
-- :sunrise_over_mountains: My favorite place: [Plazoleta Doña Catalina de la Vega](https://goo.gl/maps/sp7PmeRoAqiWfFcR7 "Plazoleta Doña Catalina de la Vega")
+- :evergreen_tree: My favorite place: [Plazoleta Doña Catalina de la Vega](https://goo.gl/maps/sp7PmeRoAqiWfFcR7 "Plazoleta Doña Catalina de la Vega")
