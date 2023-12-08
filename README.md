@@ -4,7 +4,7 @@ I like maths and using them to achieve the most efficient algorithm. My favorite
 
 ------------
 
-:yum: Programming languajes I know:
+😋 Programming languajes I know:
 - Java
 - C#
 - C++
@@ -18,13 +18,13 @@ I like maths and using them to achieve the most efficient algorithm. My favorite
 
 ------------
 
-:mailbox_with_mail: Contact:
+📬 Contact:
 - Instagram: [Fabricio Tomás](https://www.instagram.com/fabrifalso/ "fabrifalso")
 - Email: fabritomas25@gmail.com
 
 ------------
 
 More about me:
-- :tired_face: I'm currently trying to pass the exams but also learning LWJGL, some frameworks like Spring & Assembly.
-- :coffee: Love coffee.
-- :evergreen_tree: My favorite place: [Plazoleta Doña Catalina de la Vega](https://goo.gl/maps/sp7PmeRoAqiWfFcR7 "Plazoleta Doña Catalina de la Vega")
+- 😫 I'm currently trying to pass the exams but also learning LWJGL, some frameworks like Spring & Assembly.
+- ☕ Love coffee.
+- 🌲 My favorite place: [Plazoleta Doña Catalina de la Vega](https://goo.gl/maps/sp7PmeRoAqiWfFcR7 "Plazoleta Doña Catalina de la Vega")
