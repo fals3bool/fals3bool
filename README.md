@@ -5,13 +5,14 @@ I'm a 21 year-old student from the UNL ([Universidad Nacional del Litoral](https
 <h3 align="center">Techs & Tools</h3>
 
 <p align="center">
-  <img width="auto" src="https://img.shields.io/badge/java-D50000?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img width="auto" src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img width="auto" src="https://img.shields.io/badge/c%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img width="auto" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img width="auto" src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img width="auto" src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img width="auto" src="https://img.shields.io/badge/sql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <a href="https://github.com/falseme?tab=repositories&language=java"><img width="auto" src="https://img.shields.io/badge/java-D50000?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
+  <a href="https://github.com/falseme?tab=repositories&language=c%2B%2B"><img width="auto" src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+  <a href="https://github.com/falseme?tab=repositories&language=c%23"><img width="auto" src="https://img.shields.io/badge/c%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/></a>
+  <a href="https://github.com/falseme?tab=repositories&language=python"><img width="auto" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://github.com/falseme?tab=repositories&language=javascript"><img width="auto" src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/></a>
+  <a href="https://github.com/falseme?tab=repositories&language=php"><img width="auto" src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
+  <a href="https://github.com/falseme?tab=repositories&language=sql"><img width="auto" src="https://img.shields.io/badge/sql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+  <a href="https://github.com/falseme?tab=repositories&language=mcfunction"><img width="auto" src="https://img.shields.io/badge/mcfunc-EF323D?style=for-the-badge&logo=mojangstudios&logoColor=white"/></a>
 </p>
 <p align="center">
   <img width="auto" src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
@@ -37,7 +38,7 @@ I'm a 21 year-old student from the UNL ([Universidad Nacional del Litoral](https
 </p>
 <p align="center">
   <a href="https://www.youtube.com/@falseme"><img width="auto" src="https://img.shields.io/badge/youtube-D52525?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-	<a href="https://www.instagram.com/fabrifalso"><img width="auto" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/fabrifalso"><img width="auto" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.ko-fi.com/falseme"><img width="auto" src="https://img.shields.io/badge/kofi-FF3850?style=for-the-badge&logo=kofi&logoColor=white"/></a>
 </p>
 
