@@ -1,6 +1,6 @@
-<h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> HI! I'm Fabricio Tomás (falseme)</h2>
+<h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> HI! I'm Fabricio Tomás (fals3bool)</h2>
 
-I'm a 21 year-old student from the UNL ([Universidad Nacional del Litoral](https://www.unl.edu.ar "Universidad Nacional del Litoral ARG")), living in Argentina. I like maths and using them to achieve the most efficient algorithm. My favorite math operation is the logarithm.
+I'm a 22 year-old student from the UNL ([Universidad Nacional del Litoral](https://www.unl.edu.ar "Universidad Nacional del Litoral ARG")), living in Argentina. I like maths and using them to achieve the most efficient algorithm. My favorite math operation is the logarithm.
 
 <h3 align="center">Techs & Tools</h3>
 
@@ -36,6 +36,6 @@ I'm a 21 year-old student from the UNL ([Universidad Nacional del Litoral](https
 <p align="center">
   <a href="https://www.youtube.com/@falseme"><img width="auto" src="https://img.shields.io/badge/youtube-D52525?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.instagram.com/fabrifalso"><img width="auto" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.ko-fi.com/falseme"><img width="auto" src="https://img.shields.io/badge/kofi-FF3850?style=for-the-badge&logo=kofi&logoColor=white"/></a>
+  <!--<a href="https://www.ko-fi.com/falseme"><img width="auto" src="https://img.shields.io/badge/kofi-FF3850?style=for-the-badge&logo=kofi&logoColor=white"/></a>-->
 </p>
 
