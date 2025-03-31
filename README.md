@@ -33,7 +33,7 @@ I'm a 22 year-old student from the UNL ([Universidad Nacional del Litoral](https
 <p align="center">
   <a href="mailto:fabritomas25@gmail.com"><img width="auto" src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-<p align="center">fals3bool 
+<p align="center">
   <a href="https://www.youtube.com/@falseme"><img width="auto" src="https://img.shields.io/badge/youtube-D52525?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.instagram.com/fabrifalso"><img width="auto" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <!--<a href="https://www.ko-fi.com/falseme"><img width="auto" src="https://img.shields.io/badge/kofi-FF3850?style=for-the-badge&logo=kofi&logoColor=white"/></a>-->
