@@ -5,24 +5,20 @@ I'm a 22 year-old student from the UNL ([Universidad Nacional del Litoral](https
 <h3 align="center">Techs & Tools</h3>
 
 <p align="center">
-  <a href="https://github.com/fals3bool?tab=repositories&language=java"><img width="auto" src="https://skillicons.dev/icons?i=java"></a>
-  <a href="https://github.com/fals3bool?tab=repositories&language=c%2B%2B"><img width="auto" src="https://skillicons.dev/icons?i=cpp"></a>
-  <a href="https://github.com/fals3bool?tab=repositories&language=c"><img width="auto" src="https://skillicons.dev/icons?i=c"></a>
+  <a href="https://github.com/fals3bool?tab=repositories&language=java" title="Java"><img width="auto" src="https://skillicons.dev/icons?i=java"></a>
+  <a href="https://github.com/fals3bool?tab=repositories&language=c%2B%2B" title="C++"><img width="auto" src="https://skillicons.dev/icons?i=cpp"></a>
+  <a href="https://github.com/fals3bool?tab=repositories&language=c" title="C"><img width="auto" src="https://skillicons.dev/icons?i=c"></a>
 </p>
 <p align="center">
-  <img width="auto" src="https://skillicons.dev/icons?i=spring">
-  <img width="auto" src="https://skillicons.dev/icons?i=hibernate">
-  <img width="auto" src="https://skillicons.dev/icons?i=mysql">
-  <img width="auto" src="https://skillicons.dev/icons?i=mongodb">
+  <a href="https://github.com/fals3bool?tab=repositories&q=spring" title="Spring"><img width="auto" src="https://skillicons.dev/icons?i=spring"></a>
+  <a href="https://github.com/fals3bool?tab=repositories&q=hibernate" title="Hibernate"><img width="auto" src="https://skillicons.dev/icons?i=hibernate"></a>
+  <a href="https://github.com/fals3bool?tab=repositories&q=mysql" title="Mysql"><img width="auto" src="https://skillicons.dev/icons?i=mysql"></a>
+  <a href="https://github.com/fals3bool?tab=repositories&q=mongodb" title="MongoDB"><img width="auto" src="https://skillicons.dev/icons?i=mongodb"></a>
 </p>
 <p align="center">
-  <img width="auto" src="https://skillicons.dev/icons?i=maven">
-  <img width="auto" src="https://skillicons.dev/icons?i=gradle">
-  <img width="auto" src="https://skillicons.dev/icons?i=cmake">
-  <img width="auto" src="https://skillicons.dev/icons?i=git">
-  <img width="auto" src="https://skillicons.dev/icons?i=eclipse">
-  <img width="auto" src="https://skillicons.dev/icons?i=visualstudio">
-  <img width="auto" src="https://skillicons.dev/icons?i=vscode">
+  <a href="https://github.com/fals3bool?tab=repositories" title="Others">
+    <img width="auto" src="https://skillicons.dev/icons?i=maven,gradle,cmake,git,eclipse,visualstudio,vscode">
+  </a>
 </p>
 
 <br>
