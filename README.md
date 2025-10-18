@@ -15,11 +15,6 @@ I'm a 22 year-old student from the UNL ([Universidad Nacional del Litoral](https
   <a href="https://github.com/fals3bool?tab=repositories&q=mysql" title="Mysql"><img width="auto" src="https://skillicons.dev/icons?i=mysql"></a>
   <a href="https://github.com/fals3bool?tab=repositories&q=mongodb" title="MongoDB"><img width="auto" src="https://skillicons.dev/icons?i=mongodb"></a>
 </p>
-<p align="center">
-  <a href="https://github.com/fals3bool?tab=repositories" title="Others">
-    <img width="auto" src="https://skillicons.dev/icons?i=maven,gradle,cmake,git,eclipse,visualstudio,vscode">
-  </a>
-</p>
 
 <br>
 
