@@ -26,7 +26,7 @@ I'm a 22 year-old student from the UNL ([Universidad Nacional del Litoral](https
 
 <h3 align="center">Contact</h3>
 <p align="center">
-  <a href="https://www.instagram.com/fabrifalso"><img width="auto" src="https://skillicons.dev/icons?i=instagram"/></a>
+  <a href="https://www.instagram.com/fabritl"><img width="auto" src="https://skillicons.dev/icons?i=instagram"/></a>
   <a href="mailto:fabritomas25@gmail.com"><img width="auto" src="https://skillicons.dev/icons?i=gmail"/></a>
   <!--<a href="https://www.ko-fi.com/falseme"><img width="auto" src="https://img.shields.io/badge/kofi-FF3850?style=for-the-badge&logo=kofi&logoColor=white"/></a>-->
 </p>
