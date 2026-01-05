@@ -19,9 +19,7 @@ I'm a 22 year-old student from the UNL ([Universidad Nacional del Litoral](https
 <br>
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=fals3bool&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=fals3bool&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=css,CMake&exclude_repo=CRogue">
-  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=fals3bool&theme=darcula&hide_border=true&background=FFFFFF00">
+
 </p>
 
 <h3 align="center">Contact</h3>
